@@ -1,4 +1,4 @@
--- PurpleServer.lua
+-- PurpleServer.luau
 --!strict
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
